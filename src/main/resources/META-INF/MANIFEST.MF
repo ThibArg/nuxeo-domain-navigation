@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 5.7-I20130225_0116
+Bundle-Name: domain-navigation
+Bundle-ManifestVersion: 2
+Nuxeo-Component: OSGI-INF/extensions/org.nuxeo.DomainNavigationBean.xm
+ l
+Bundle-SymbolicName: domain-navigation
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
